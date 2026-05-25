@@ -45,6 +45,37 @@ Programs Practiced:
 - Operator functionality
 - Writing simple reusable functions
 - Problem-solving using Python
+---
+Assignment-3 : Python Loops & Number Programs
+
+This assignment covers the basics of Python loops and logical programs.
+It includes programs using for loop, while loop, if-else, and match-case.
+
+Topics Covered
+Printing statements using loops
+Printing numbers from 1 to 20
+Odd and Even number checking
+Largest among three numbers
+Even numbers between 10 and 20
+Do-While loop logic in Python
+Armstrong Number Program
+Prime Number Program
+Palindrome Number Program
+Match-Case examples in Python
+Concepts Used
+for loop
+while loop
+if-else conditions
+match-case
+Arithmetic and relational operators
+Learning Outcome
+
+By completing this assignment, I learned:
+
+How loops work in Python
+How to repeat tasks efficiently
+How to use conditions in programs
+Basic number logic programs in Python
 
 ## Technologies Used
 - Python 3
