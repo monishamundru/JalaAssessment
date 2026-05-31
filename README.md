@@ -84,3 +84,28 @@ Basic number logic programs in Python
 
 ## Purpose
 This repository is part of my daily Python learning journey and practice to improve programming skills step by step.
+
+# Assessment 4 - Arrays in Python
+
+This repository contains solutions for array/list operations in Python as part of my JALA training assessment.
+
+## Topics Covered
+- Array sum and average
+- Searching and indexing elements
+- Insert and remove operations
+- Copying arrays
+- Finding min, max, and difference
+- Reversing arrays
+- Duplicate handling
+- Common elements between arrays
+- Second largest element
+- Even and odd count
+
+## Key Learnings
+- Working with Python lists
+- Basic algorithmic thinking
+- Looping through arrays
+- Using built-in functions like `min()`, `max()`, `sum()`
+
+## Purpose
+To practice and improve problem-solving skills using array operations in Python.
